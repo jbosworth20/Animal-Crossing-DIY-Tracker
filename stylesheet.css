@@ -1,3 +1,14 @@
-﻿body
+﻿/* #96D6D3 - A bright blue */
+/* #F0EEE6 - A nice cream */
+/* #7DAAA1 - A dark blue */
+/* #c8d7b9 - A gentle green */
+/* #c7d3c7 - A very light green */
+/*Colormind is a good way to generate colors */
+body
 {
+	background-color: #c7d3c7;
+}
+h1{
+	background-color:#84D3C7;
+	color: #F0EEE6;
 }
